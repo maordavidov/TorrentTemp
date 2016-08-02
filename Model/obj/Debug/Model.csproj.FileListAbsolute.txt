@@ -1,0 +1,4 @@
+D:\Projects\TorrentDownloader\Model\bin\Debug\Model.dll
+D:\Projects\TorrentDownloader\Model\bin\Debug\Model.pdb
+D:\Projects\TorrentDownloader\Model\obj\Debug\Model.dll
+D:\Projects\TorrentDownloader\Model\obj\Debug\Model.pdb

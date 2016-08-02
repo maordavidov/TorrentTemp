@@ -1,0 +1,12 @@
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDBProxy.dll
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDBProxy.pdb
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\Model.dll
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDB.Bson.dll
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDB.Driver.dll
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\Model.pdb
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDB.Bson.xml
+D:\Projects\TorrentDownloader\MongoDBProxy\bin\Debug\MongoDB.Driver.xml
+D:\Projects\TorrentDownloader\MongoDBProxy\obj\Debug\MongoDBProxy.csprojResolveAssemblyReference.cache
+D:\Projects\TorrentDownloader\MongoDBProxy\obj\Debug\MongoDBProxy.dll
+D:\Projects\TorrentDownloader\MongoDBProxy\obj\Debug\MongoDBProxy.pdb

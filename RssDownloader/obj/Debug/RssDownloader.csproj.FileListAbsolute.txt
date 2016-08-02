@@ -1,0 +1,7 @@
+D:\Projects\TorrentDownloader\RssDownloader\bin\Debug\RssDownloader.dll
+D:\Projects\TorrentDownloader\RssDownloader\bin\Debug\RssDownloader.pdb
+D:\Projects\TorrentDownloader\RssDownloader\bin\Debug\Model.dll
+D:\Projects\TorrentDownloader\RssDownloader\bin\Debug\Model.pdb
+D:\Projects\TorrentDownloader\RssDownloader\obj\Debug\RssDownloader.csprojResolveAssemblyReference.cache
+D:\Projects\TorrentDownloader\RssDownloader\obj\Debug\RssDownloader.dll
+D:\Projects\TorrentDownloader\RssDownloader\obj\Debug\RssDownloader.pdb

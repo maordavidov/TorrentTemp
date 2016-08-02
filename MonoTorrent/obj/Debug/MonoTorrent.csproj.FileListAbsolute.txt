@@ -1,0 +1,15 @@
+E:\D\monotorrent-master\monotorrent-master\build\MonoTorrent\Debug\MonoTorrent.dll
+E:\D\monotorrent-master\monotorrent-master\build\MonoTorrent\Debug\MonoTorrent.pdb
+E:\D\monotorrent-master\monotorrent-master\src\MonoTorrent\obj\Debug\MonoTorrent.dll
+E:\D\monotorrent-master\monotorrent-master\src\MonoTorrent\obj\Debug\MonoTorrent.pdb
+E:\D\monotorrent-master\monotorrent-master\src\MonoTorrent\obj\Debug\MonoTorrent.csprojResolveAssemblyReference.cache
+C:\Projects\build\MonoTorrent\Debug\MonoTorrent.dll
+C:\Projects\build\MonoTorrent\Debug\MonoTorrent.pdb
+C:\Projects\Kipa BitTorrent\MonoTorrent\obj\Debug\MonoTorrent.csprojResolveAssemblyReference.cache
+C:\Projects\Kipa BitTorrent\MonoTorrent\obj\Debug\MonoTorrent.dll
+C:\Projects\Kipa BitTorrent\MonoTorrent\obj\Debug\MonoTorrent.pdb
+D:\Projects\build\MonoTorrent\Debug\MonoTorrent.dll
+D:\Projects\build\MonoTorrent\Debug\MonoTorrent.pdb
+D:\Projects\Kipa BitTorrent\MonoTorrent\obj\Debug\MonoTorrent.csprojResolveAssemblyReference.cache
+D:\Projects\Kipa BitTorrent\MonoTorrent\obj\Debug\MonoTorrent.dll
+D:\Projects\Kipa BitTorrent\MonoTorrent\obj\Debug\MonoTorrent.pdb

@@ -1,0 +1,7 @@
+D:\Projects\TorrentDownloader\TorrentReader\bin\Debug\TorrentReader.dll
+D:\Projects\TorrentDownloader\TorrentReader\bin\Debug\TorrentReader.pdb
+D:\Projects\TorrentDownloader\TorrentReader\bin\Debug\MonoTorrent.dll
+D:\Projects\TorrentDownloader\TorrentReader\bin\Debug\MonoTorrent.pdb
+D:\Projects\TorrentDownloader\TorrentReader\obj\Debug\TorrentReader.csprojResolveAssemblyReference.cache
+D:\Projects\TorrentDownloader\TorrentReader\obj\Debug\TorrentReader.dll
+D:\Projects\TorrentDownloader\TorrentReader\obj\Debug\TorrentReader.pdb

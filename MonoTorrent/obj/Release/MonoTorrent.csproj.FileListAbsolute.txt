@@ -1,0 +1,2 @@
+D:\Projects\build\MonoTorrent\Release\MonoTorrent.dll
+D:\Projects\Kipa BitTorrent\MonoTorrent\obj\Release\MonoTorrent.dll

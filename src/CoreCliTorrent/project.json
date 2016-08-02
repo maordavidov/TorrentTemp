@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0-*",
+  "description": "CoreCliTorrent Class Library",
+  "authors": [ "מאור" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnxcore50": {
+      "dependencies": {
+        "System.IO": "4.0.11-beta-23516",
+        "System.Threading.ThreadPool": "4.0.10-beta-23516"
+      }
+    }
+  },
+  "dependencies": {
+    "System.Text.RegularExpressions": "4.0.11-beta-23516",
+    "System.Private.Networking": "4.0.1-beta-23516",
+    "System.Net.WebHeaderCollection": "4.0.1-beta-23516",
+    "System.Collections.Specialized": "4.0.1-beta-23516",
+    "Microsoft.AspNet.Mvc": "6.0.0-rc1-final"
+  }
+}

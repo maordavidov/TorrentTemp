@@ -1,0 +1,7 @@
+D:\Projects\TorrentDownloader\VideoInformationDownloader\bin\Debug\VideoInformationDownloader.dll
+D:\Projects\TorrentDownloader\VideoInformationDownloader\bin\Debug\VideoInformationDownloader.pdb
+D:\Projects\TorrentDownloader\VideoInformationDownloader\bin\Debug\Model.dll
+D:\Projects\TorrentDownloader\VideoInformationDownloader\bin\Debug\Model.pdb
+D:\Projects\TorrentDownloader\VideoInformationDownloader\obj\Debug\VideoInformationDownloader.csprojResolveAssemblyReference.cache
+D:\Projects\TorrentDownloader\VideoInformationDownloader\obj\Debug\VideoInformationDownloader.dll
+D:\Projects\TorrentDownloader\VideoInformationDownloader\obj\Debug\VideoInformationDownloader.pdb
